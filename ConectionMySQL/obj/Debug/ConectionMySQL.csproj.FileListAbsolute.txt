@@ -1,0 +1,12 @@
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\ConectionMySQL.exe
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\ConectionMySQL.pdb
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\Google.Protobuf.dll
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\MySql.Data.dll
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\Renci.SshNet.dll
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\Google.Protobuf.xml
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\MySql.Data.xml
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\bin\Debug\Renci.SshNet.xml
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\obj\Debug\ConectionMySQL.csprojResolveAssemblyReference.cache
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\obj\Debug\ConectionMySQL.exe
+C:\Users\Klevisa\RiderProjects\ConectionMySQL\ConectionMySQL\obj\Debug\ConectionMySQL.pdb
